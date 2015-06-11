@@ -12,14 +12,8 @@
     "dist/remodal-default-theme.css"
   ],
   "ignore": [
-    "**/.*",
-    "examples/",
-    "libs/",
-    "src/",
     "test/",
-    "*.md",
-    "Gruntfile.js",
-    "package.json"
+    "*.md"
   ],
   "keywords": [
     "jquery",
