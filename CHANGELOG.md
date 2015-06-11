@@ -1,3 +1,6 @@
+### 1.0.2
+*  Remove directives from the 'ignore' array in bower.json
+
 ### 1.0.1
 * Do not use namespaces in data attributes (fix).
 
